@@ -26,7 +26,7 @@ Obsidian 插件开发者，围绕自己的 **Goldfish 知识库体系** 编写�
 |---|---|---|
 | [goldfish-plugins](https://github.com/goldfishsnow/goldfish-plugins)（私有）<br>Goldfish 自研插件的源码、运行包与 Release | [obsidian-self-plugins](https://github.com/goldfishsnow/obsidian-self-plugins)（私有）<br>AI-02 自研插件的版本留存 | [obsidian-plugin-catalog](https://github.com/goldfishsnow/obsidian-plugin-catalog)（私有）<br>两个库的插件总表与差异清单 |
 
-> 注：除 goldfishsnow 与 Obsidian-translations 外，其余为私有仓库，链接需授权访问。
+> 注：上述三个主业务仓库均为私有，链接需授权访问。
 
 
 插件源码与版本发布都在上面三个私有仓库里维护，暂不公开。
